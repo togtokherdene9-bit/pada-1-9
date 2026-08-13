@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+  background-color: black;
+}
+div {
+  color: aliceblue;
+  margin: 20px auto;
+  padding: 35px;
+}
+.class6 {
+  display: inline-block;
+  background-color: green;
+  padding: 10px;
+  border-radius: 10px;
+  width: 50px;
+}
+.class2 {
+  display: inline-block;
+  background-color: green;
+  padding: 10px;
+  border-radius: 10px;
+  width: 50px;
+}
+.class3 {
+  background-color: green;
+  padding: 10px;
+  border-radius: 10px;
+  width: 600px;
+}
+.class5 {
+  overflow: scroll;
+  width: 200px;
+  background-color: black;
+  padding: 10px;
+  border-radius: 10px;
+  border-color: green;
+  height: 100px;
+  border: 1px solid green;
+}

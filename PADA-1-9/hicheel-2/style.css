@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  font-family: sans-serif;
+  color: aliceblue;
+}
+div {
+  background-color: #0d1117;
+  padding: 12px;
+  border-radius: 15px;
+  width: 300px;
+}
+.class2 {
+  background-color: #39d353;
+  padding: 10px;
+  border-radius: 99px;
+  width: fit-content;
+  position: absolute;
+  display: inline-block;
+  right: -12px;
+  top: -12px;
+}

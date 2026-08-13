@@ -1,0 +1,17 @@
+div {
+  width: 500px;
+  height: 300px;
+  background-color: darkblue;
+  color: aliceblue;
+  padding: 50px;
+  margin: 30px;
+  border: 10px solid #008000;
+  width: fit-content;
+  height: fit-content;
+}
+#sigma {
+  background-color: darkblue;
+}
+body {
+  background-color: black;
+}

@@ -1,0 +1,20 @@
+* {
+  /* өргөнд padding, border-ийг оруулж тооцно */
+  box-sizing: border-box;
+}
+
+body {
+  background: #0d1117;
+  color: #f8fafc;
+}
+
+.card {
+  width: 320px;
+  /* content-ийн дотор тал руух зай */
+  padding: 24px;
+  /* контентыг тойрсон шугам */
+  border: 2px solid #39d353;
+  /* картуудын хоорондох гадна зай */
+  margin: 20px;
+  background: #161b22;
+}
